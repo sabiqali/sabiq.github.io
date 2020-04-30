@@ -1,8 +1,8 @@
-- name : about
+- name : myprofile/about
 
-- name : experience 
+- name : myprofile/experience 
 
-- name : projects
+- name : myprofile/projects
 
-- name : certifications
+- name : myprofile/certifications
 
