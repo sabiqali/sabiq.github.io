@@ -1,0 +1,27 @@
+# Education Template
+- layout: left-edu
+  name: SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
+  link: https://www.srmist.edu.in/
+  dates: 2017 - 2021
+  qualification: B.Tech Computer Science & Engineering
+  description: > # this will include new lines to allow paragraphs
+    SRM Institute of Science and Technology (formerly known as SRM University) is one of the top ranking universities in India 
+    with over 38,000 students and more than 2600 faculty across all the campus, offering a wide range of undergraduate, 
+    postgraduate and doctoral programs in Engineering, Management, Medicine and Health sciences, and Science and Humanities.
+    
+    - **CGPA** : 9.2  
+    
+    - **City** : Chennai, India
+
+- layout: left-edu
+  name: LAKSHMIPAT SINGHANIA ACADEMY
+  link: https://www.lsakolkata.com/
+  dates: 2004 - 2017  
+  qualification: High School 
+  description: > # this will include new lines to allow paragraphs
+    The Lakshmipat Singhania Education Foundation was founded in the 1960s to promote education in India.
+    The Kolkata branch of the school opened in 1996. It is located at the intersection of Alipore Road and Judge's Court Road. <br>
+    
+    - **Board Percentage** : 91% CBSE
+
+    - **City** : Kolkata, India
