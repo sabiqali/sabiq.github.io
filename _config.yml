@@ -1,9 +1,9 @@
-repository: sabiqali/myprofile/
+repository: sabiqali/myprofile-arch/
 favicon: images/fav.ico``
 
 # Personal info
 name: Sabiq Chaudhary
-title: Second Year, Electrical and Computer Engineering
+title: Programmer at Ontario Institute of Cancer Research and Software Developer and Product Manager at Backers Network Inc.
 email: sabiq.work@Gmail.com
 phone: "6475509161"
 website: sabiqali.github.io/myprofile/
@@ -11,7 +11,7 @@ website: sabiqali.github.io/myprofile/
 darkmode: false
 
 # Social links
-#twitter_username: jekyllrb
+twitter_username: sabiq_chaudhary
 github_username:  sabiqali
 #stackoverflow_username: 8700517/vinayak-sharma
 facebook_username: sabiqchaudhary
@@ -38,6 +38,7 @@ linkedin_username: sabiqchaudhary
 about_profile_image: images/picture.jpg
 about_content: | # this will include new lines to allow paragraphs
   Student Researcher with a passion for the fields of <mark>Deep Learning</mark> & <mark>Quantum Computing</mark>.
+  Blah blah blah blah
   Currently the <mark>Head of Research, AI & Quantum Computing</mark> at [Next Tech Lab](https://nextech.io/) and Vice-Chairperson of 
   [ACM Student chapter](https://www.facebook.com/SRMACM/) at SRM IST. <br>
   I am proficient with :
